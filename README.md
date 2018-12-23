@@ -16,7 +16,7 @@ Otherwise, I'm trying to improve and strengthen my programming knowledge and I a
 
 My first days on the challenge will be dedicated to code my blog and start writing some ideas, preparing code for these articles. When finished my first article series I will point to the second part. 
 
-Let's start on in and we'll see!
+Let's start on and we'll see!
 
 ## Follow my progress here
 
