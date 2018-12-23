@@ -5,6 +5,7 @@ After a few days thinking to enroll to the challenge or not, I've finally decide
 * Creating my own blog
 * I little side project that I never started
 * And idea that I have to work more on it before finally share
+* We'll see...
 
 ## My coding blog
 
