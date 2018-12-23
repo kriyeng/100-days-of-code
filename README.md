@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-After a few days thinking to enroll or not, I've finally decide to enroll to the challenge. I'm developing at work and with two daughters, my time for side/fun projects are very limited and needs a lot of willpower to go for them. I have some ideas that I'll try to develop during this challenge.
+After a few days thinking to enroll to the challenge or not, I've finally decide to go for it. I'm developing at work and with two daughters, my time for side/fun projects are very limited and needs a lot of willpower to go for them. I have some ideas that I'll try to develop during this challenge.
 
 * Creating my own blog
 * I little side project that I never started
