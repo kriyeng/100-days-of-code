@@ -1,4 +1,4 @@
-# Regles per repte 100 dies de programació (100 Days Of Code Challenge)
+# Regles per al repte 100 dies de programació (100 Days Of Code Challenge)
 
 ## Principal Compromís
 ### *Programaré un mínim d'una hora cada dia en els propers 100 dies.*
