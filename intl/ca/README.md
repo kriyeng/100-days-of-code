@@ -1,39 +1,37 @@
-# I've joined the #100DaysOfCode Challenge
+# M'he unit al repte #100DaysOfCode
 
-## Contents
+## Continguts
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Regles](rules.md)
+* [Log - Clica aquí per veure el meu progrés](log.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Recursos](resources.md)
 
 ## Translations
-[বাংলা](intl/bn/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md)
+[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+## Si has decidit unir-te al repte:
 
-## If you've decided to join:
+0.  Visita [el lloc oficial](http://100daysofcode.com/) del moviment #100DaysOfCode. Connecta amb altres a la plataforma que escullis d'aquesta llista: www.100DaysOfCode.com/connect
+    o, [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) tens el link per la invitació al canal 100DaysOfCode de Slack.
+1.  Llegeix [Unir-te a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+1.  Bifurca (fork) aquest repositori i afegeix el teu progrés diari al fitxer [Log](log.md) o a la versió ràpida [R1 Log](r1-log.md) (R1 es refereix a Round 1). [Exemple](https://github.com/Kallaway/100-days-kallaway-log).
+1.  **Programa com a mínim una hora cada dia durant els pròxims 100 dies.**
+1.  **Anima com a mínim dos usuaris en el repte a Twitter cada dia! Torna el favor!**
+1.  Canvia la data a les [Regles](rules.md) a la del dia que comencis el teu repte.
+1.  Esborra o comenta els exemples del fitxer log i comença a omplir-lo amb el teu propi contingut cada dia.
+1.  **Twiteja el teu progrés cada dia a twitter utilitzant el hashtag #100DaysOfCode.**
+1.  Segueix a Twitter a [100DaysOfCode](https://twitter.com/_100DaysOfCode) És un Twitter Bot que retuiteja tots els tuits que contenen el hashtag #100DaysOfCode. És una bona manera de mantenir-te motivat i participar a la comunitat. Gràcies a [@amanhimself](https://twitter.com/amanhimself) per crear-lo!
+1.  Important: (Mira el punt .4 anterior per més detalls) Incentiva altra gent que està fent el repte a Twitter o qualsevol altr aplataforma - donant-lis suport quan publiquin el seu progrés, i animant-los quan les coses es posin difícils. D'aquesta manera crearem una comunitat útil i eficaç, que ajudarà a un nivell més alt d'èxit a cada una de les persones que s'hi uneixin. També és més probable que puguis mantenir el teu compromís si has donat a conèixer el teu propòsit a dues (o més) persones.
+1.  Si trobes algun recurs interessant i d'ajuda que altres persones se'n puguin beneficiar, fes un Pull Request per afegir-lo a aquest repositori o bé simplement tuiteja-m'ho directament (el meu usuari a sota)
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Code minimum an hour every day for the next 100 days.**
-1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-1.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-1.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-1.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-1.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+## Vols canviar altres hàbits?
 
-## Want to change other habits?
+Visita [the #100DaysOfX Challenges Project](http://100daysofx.com/). Canviar els teus hàbits ñes canviar la teva vida. Recorda que el millor moment per començar es sempre ARA.
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+Jo recomano no unir-te a més de 2-3 reptes a la vegada, essent lo ideal 2. Si estàs fent el repte #100DaysOfCode que requereix força d'activitat mental, prova el repte [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o bé [#100DaysOfFitness](http://100daysofx.com/challenges/). Hi ha molt més en el lloc web, mira'ls tots ells i escull el que vulguis aconseguir! Llengues, escriptura, meditació, el teu diari, cuina i més!
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+## Nota
 
-## Note
-
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+* Si tens cap pregunta o idea sobre 100DaysOfCode (o altres idees), no dubtis contactar amb mi a Twitter: [@ka11away](https://twitter.com/ka11away)
+* Si trobes aquest repositori interessant i útil, si us plau pensa en donar-li &#9733; una estrella (a la part superior dreta de la pàgina) :)
