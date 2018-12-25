@@ -20,16 +20,16 @@
 1.  **Anima a Twitter com a mínim a dos usuaris en el repte cada dia! Torna el favor!**
 1.  Canvia la data a les [Regles](rules.md) a la del dia que comencis el teu repte.
 1.  Esborra o comenta els exemples del fitxer log i comença a omplir-lo amb el teu propi contingut cada dia.
-1.  **Twiteja el teu progrés cada dia a twitter utilitzant el hashtag #100DaysOfCode.**
+1.  **Twiteja el teu progrés cada dia a Twitter utilitzant el hashtag #100DaysOfCode.**
 1.  Segueix a Twitter a [100DaysOfCode](https://twitter.com/_100DaysOfCode) És un Twitter Bot que retuiteja tots els tuits que contenen el hashtag #100DaysOfCode. És una bona manera de mantenir-te motivat i participar a la comunitat. Gràcies a [@amanhimself](https://twitter.com/amanhimself) per crear-lo!
-1.  Important: (Mira el punt .4 anterior per més detalls) Incentiva altra gent que està fent el repte a Twitter o qualsevol altr aplataforma - donant-lis suport quan publiquin el seu progrés, i animant-los quan les coses es posin difícils. D'aquesta manera crearem una comunitat útil i eficaç, que ajudarà a un nivell més alt d'èxit a cada una de les persones que s'hi uneixin. També és més probable que puguis mantenir el teu compromís si has donat a conèixer el teu propòsit a dues (o més) persones.
+1.  Important: (Mira el punt .4 anterior per més detalls) Incentiva altra gent que està fent el repte a Twitter o qualsevol altra plataforma - donant-lis suport quan publiquin el seu progrés, i animant-los quan les coses es posin difícils. D'aquesta manera crearem una comunitat útil i eficaç, que ajudarà a un nivell més alt d'èxit a cada una de les persones que s'hi uneixin. També és més probable que puguis mantenir el teu compromís si has donat a conèixer el teu propòsit a dues (o més) persones.
 1.  Si trobes algun recurs interessant i d'ajuda que altres persones se'n puguin beneficiar, fes un Pull Request per afegir-lo a aquest repositori o bé simplement tuiteja-m'ho directament (el meu usuari a sota)
 
 ## Vols canviar altres hàbits?
 
-Visita [the #100DaysOfX Challenges Project](http://100daysofx.com/). Canviar els teus hàbits ñes canviar la teva vida. Recorda que el millor moment per començar es sempre ARA.
+Visita [the #100DaysOfX Challenges Project](http://100daysofx.com/). Canviar els teus hàbits és canviar la teva vida. Recorda que el millor moment per començar es sempre ARA.
 
-Jo recomano no unir-te a més de 2-3 reptes a la vegada, essent lo ideal 2. Si estàs fent el repte #100DaysOfCode que requereix força d'activitat mental, prova el repte [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o bé [#100DaysOfFitness](http://100daysofx.com/challenges/). Hi ha molt més en el lloc web, mira'ls tots ells i escull el que vulguis aconseguir! Llengues, escriptura, meditació, el teu diari, cuina i més!
+Jo recomano no unir-te a més de 2-3 reptes a la vegada, essent lo ideal 2. Si estàs fent el repte #100DaysOfCode que requereix força activitat mental, prova el repte [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o bé [#100DaysOfFitness](http://100daysofx.com/challenges/). Hi ha molt més en el lloc web, mira'ls tots ells i escull el que vulguis aconseguir! Llengues, escriptura, meditació, el teu diari, cuina i més!
 
 ## Nota
 
