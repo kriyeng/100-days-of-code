@@ -17,7 +17,7 @@
 1.  Llegeix [Unir-te a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Bifurca (fork) aquest repositori i afegeix el teu progrés diari al fitxer [Log](log.md) o a la versió ràpida [R1 Log](r1-log.md) (R1 es refereix a Round 1). [Exemple](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Programa com a mínim una hora cada dia durant els pròxims 100 dies.**
-1.  **Anima com a mínim dos usuaris en el repte a Twitter cada dia! Torna el favor!**
+1.  **Anima a Twitter com a mínim a dos usuaris en el repte cada dia! Torna el favor!**
 1.  Canvia la data a les [Regles](rules.md) a la del dia que comencis el teu repte.
 1.  Esborra o comenta els exemples del fitxer log i comença a omplir-lo amb el teu propi contingut cada dia.
 1.  **Twiteja el teu progrés cada dia a twitter utilitzant el hashtag #100DaysOfCode.**
