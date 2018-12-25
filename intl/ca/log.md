@@ -1,25 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 23, 2018
+### Day 0: February 30, 2016 (Example 1)
+##### (delete me or comment me out)
 
-**Today's Progress**: Getting, configuring and start adapting Total.js [blog Engine](https://github.com/totaljs/blogengine) to start my coding blog. Pushed to github, not published yet.
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** It's just the beginning of this journey and I'm not totally convinced how it'll go.
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
+**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 2: December 24, 2018
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
 
-**Today's Progress**: Main today's work advanced yesterday due to christmans dinner. Custom styling the blog. Naming, top banner, favicon, ...
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** To not get stuck in the whole project I decided a name for the blog quickly. I will decide another one later.
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-### Day 3: December 25, 2018
+**Link(s) to work**: [Calculator App](http://www.example.com)
 
-**Today's Progress**: Prepared the server on a dedicated server I own. Cloned the repository, installed dependencies, configured the environment. Configured an IIS to redirect my DNS on port 80 to my Node.js on port 9009.
 
-**Thoughts:** I own a windows deidcated server. I taked the advantage and I configured IIS to route my DNS to my Node.js.
+### Day 1: June 27, Monday
 
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-[My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
