@@ -20,6 +20,14 @@
 
 **Thoughts:** I own a windows deidcated server. I taked the advantage and I configured IIS to route my DNS to my Node.js.
 
+### Day 4: December 26, 2018
+
+**Today's Progress**: Created a fake project for tutorial purpose, with some basic HTML and CSS to start working on the tutorial. Commited to Github
+
+**Thoughts:** Hard day after christmas, but I finally got focus. Some basic HTML and CSS for the fake project
+
+**Link to work:** [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
 
 **Link(s) to work**
 [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
+[Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
