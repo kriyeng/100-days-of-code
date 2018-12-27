@@ -28,6 +28,14 @@
 
 **Link to work:** [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
 
+### Day 5: December 27, 2018
+
+**Today's Progress**: Restyled the default theme of the blog and pushed to server.
+
+**Thoughts:** Sometimes it's hard to restyle something existing that start from scratch based on some idea.
+
+**Link to work:** [Coding and more blog on Github](https://github.com/kriyeng/coding-and-more-blog)
+
 **Link(s) to work**
 [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
 [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
