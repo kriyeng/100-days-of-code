@@ -1,10 +1,10 @@
 ## FAQ:
-  **Q:** How do I get in touch with the people who are also doing this challenge?  
-  **A:** The best way to connect is to use the list of resources available on the official 100DaysOfCode site:
+  **Q:** Com em poso en contacte amb les altre spersones que estan duent a terme el repte?
+  **A:** La millor manera de connectar és utilitzant la llista de recursos disponible al lloc oficial de 100DaysOfCode:
   www.100DaysOfCode.com/connect 
-  Also, here is [an invite link to the 100DaysOfCode Slack channel](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
+  Tembé, aquí hi ha [una invitació per al canal de Slack de 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
   
-  Search for #100DaysOfCode on Twitter, or join [the 100DaysOfCode room on Gitter](https://gitter.im/Kallaway/100DaysOfCode) — you don’t need an invite, it’s open for anyone to join. Also, follow [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) on Twitter to stay in touch with the community.
+  Busca #100DaysOfCode a Twitter, o uneix-te a [la sala 100DaysOfCode a Gitter](https://gitter.im/Kallaway/100DaysOfCode) — no necessites invitació, està obert a qualsevol persona a unir-se. A més, segueix [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) a Twitter i estigues en contacte amb la comunitat.
 
   **Q:** I've already started the challenge, and I'm currently on Day 8. How can I start using this repo to track my progress?  
   **A:** Don't worry. Restore as much info on the previous days, but if you can't then just continue from where you are right now. If you have been tweeting about your progress every day, put the links to your tweets in the Log for each day. Then, follow the format.  
