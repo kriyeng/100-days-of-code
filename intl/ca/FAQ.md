@@ -1,42 +1,42 @@
 ## FAQ:
-  **Q:** Com em poso en contacte amb les altre spersones que estan duent a terme el repte?
-  **A:** La millor manera de connectar és utilitzant la llista de recursos disponible al lloc oficial de 100DaysOfCode:
+  **P:** Com em poso en contacte amb les altres persones que estan duent a terme el repte?  
+  **R:** La millor manera de connectar és utilitzant la llista de recursos disponible al lloc oficial de 100DaysOfCode:
   www.100DaysOfCode.com/connect 
   Tembé, aquí hi ha [una invitació per al canal de Slack de 100DaysOfCode](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA).
   
   Busca #100DaysOfCode a Twitter, o uneix-te a [la sala 100DaysOfCode a Gitter](https://gitter.im/Kallaway/100DaysOfCode) — no necessites invitació, està obert a qualsevol persona a unir-se. A més, segueix [@_100DaysOfCode](https://twitter.com/_100DaysOfCode) a Twitter i estigues en contacte amb la comunitat.
 
-  **Q:** I've already started the challenge, and I'm currently on Day 8. How can I start using this repo to track my progress?  
-  **A:** Don't worry. Restore as much info on the previous days, but if you can't then just continue from where you are right now. If you have been tweeting about your progress every day, put the links to your tweets in the Log for each day. Then, follow the format.  
+  **P:** He començat el repte i actualment estic al Dia 8. Com puc començar a utilitzar aquest repositori per seguir el meu progrés?  
+  **R:** Tranquil. Recupera la màxima informació possible dels primers dies i si no simplement comença des d'on ets ara mateix. Si has estat tuitejant sobre el teu progrés, enllaça els tuits en el Log de cada dia. A partir d'aquí, segueix ja el format.  
 
-  **Q:** I am new to coding (or just deciding to learn to code) and can’t build projects yet, what should I do?  
-  **A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) from the very beginning. The further you get during the 100 days, the better.  
+  **P:** Tot just començo a programar (o vull aprendre a programar) i encara no puc crear projectes, que hauria de fer?  
+  **R:** La millor manera de començar seria seguir el [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) des de el principi. Com més lluny arribis en els 100 dies, millor.  
 
-  **Q:** I’ve missed a day, does it mean I’ve failed the challenge?  
-  **A:** Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.  
+  **P:** He perdut un dia, significa que he fallat el repte?  
+  **R:** De cap manera. Pots perdre un dia (només has d'afegir-lo al final dels 100 dies), però mai perdis dos dies seguits. Aquest és un gran consell sobre formació d'hàbits que vaig obtenir de Leo Babauta als hàbits zen.  
 
-  **Q:** I come home late, and by the time I am finished with my hour, it’s past midnight, does it count?  
-  **A:** Of course it counts! The rule of thumb is: have you coded for at least an hour before going to sleep that day? If yes, you are on track.  
-  The reason for this is that we all have different schedules and different life periods (kids, school, work, and what have you) so don’t hold yourself to some arbitrary time standard. You will not experience what Cinderella experienced once the clock strikes midnight.  
-  Don't worry whether you get a point on GitHub on that particular day. Yes, it’s nice to have them in a streak one by one, but don’t do yourself a disservice by measuring your efforts to a clock.  
+  **P:** He arribat tarda a casa i finalment he pogut acaba amb la hora, però ha passat la mitjanit. Compta per avui aquesta hora?  
+  **R:** I tant que si! La regla d'or és: Has programat durant una hora abans d'anar a dormir aquest dia? Si és que si, estàs complint.  
+  La raó es que tots tenim horaris diferents (Fills, escola, feina i el que tu tinguis), per tant no t'aferris en horari estàndard arbitrari. El teu ordinador no es convertirà en un carbassa quan arribi la mitjanit.  
+  No et preocupis tampoc per pujar el codi al Github en un dia concret. Es veritat que és bonic tenir tots els dies perfectes i seguits, però no et posis pals a les rodes mesurant els teus esforços en un rellotge.  
 
-  **Q:** Should I keep a journal?  
-  **A:** Yes you should, and the best way to do that is to fork this repo, and commit to [the Log](log.md) daily. It’s helpful in two major ways: you will be able to look at the progress each day and see how far you’ve already come and it will be easier to find the motivation to continue, and the second one is that after you’ve done your 100 days, you will be able to analyze your experience better and see what worked and what didn’t.
+  **P:** Hauria de seguir un diari?  
+  **R:** Si, hauries. La millor manera és bifurcar aquest repositori i pujar el teu progrés [al Log](log.md) diàriament. Això és útil en dos maneres principals: Poder veure el teu progrés de cada dia i veure com de lluny has arribat, motivant-te a seguir endavant amb el repte, i per altra banda, un cop finalitzat el repte als 100 dies podràs analitzar la teva experiència i veure que és el que t'ha funcionat millor i el que no.
 
-  **Q:** Should I put my projects online?  
-  **A:** Definitely. It’s great for accountability and motivation to know that the stuff you’ve worked on is accessible online to anyone who may wish to look at it. It will make you care about the end product more, and will lead to a more impressive result in the end. I suggest you put them on GitHub.
+  **P:** Hauria de publicar els meus projectes?  
+  **R:** Totalment. És molt important per fer el seguiment i motivació saber que el que has anat fent està accessible online per qualsevol persona que li vulgui donar un cop d'ull. Això et farà tenir més cura del teu projecte, i et portarà a un resultat més impressionant al final. Et suggereixo que ho pugis al GitHub.
 
-  **Q:** Should I worry about streaks?  
-  **A:** Streaks are nice and helpful, but as I mentioned above — don’t worry about them too much and don’t criticize yourself over missing a day. Instead, make sure you do everything to not let that happen again, and know that worrying and scolding yourself will not give you any results. (Ok, It will give you results, but only negative. I would call them consequences, not results) The best way to get out of that negative emotional state is to sit down and code.
+  **P:** M'hauria de preocupar per les ratxes?  
+  **R:** Les ratxes son bones i útils, però com he comentat abans - no et preocupis massa per trencar una ratxa i no et critiquis per perdre un dia. En comptes d'això, assegura't que posaràs tot el necessari per a que no torni a passar. Ara no t'ajudarà de gaire renyar-te massa a tu mateix. (Bé, si et donarà resultats, però negatius, i això jo li diria conseqüències, no resultats) La millor manera de sortir dels teus pensaments negatius és assentar-te i començar a programar.
 
-  **Q:** What is the most difficult part of this challenge?  
-  **A:** The part where you have to sit down and start coding. Don’t postpone that or think about it at all, because you will rationalize yourself out of it. Approach it mechanically: sit down, open your laptop, launch your coding editor, and start typing. After 5 minutes, you will not feel any problems/procrastination/desire to stop.  
+  **P:** Quina és la part més difícil del repte?  
+  **R:** La part en que t'has de assentar i començar a programar. No ho posposis o hi pensis massa, perquè això et donarà alguna raó per no posar-t'hi. Aplica un sistema purament mecànic. Assenta't, obre el teu portàtil, obre el teu editor i comença a programar. Només 5 minuts i ja no tindràs cap problema/procrastinació/desig d'aturar-te.  
 
-  **Q:** If everyone started on a certain day, should I join them on the day they are? For example, from Day 12?  
-  **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!  
+  **P:** Si algú ha començat un dia concret, hauria de unir-me a ells al mateix dia que són ells? Per exemple el dia 12?  
+  **R:** Aquest repte és individual, és a dir, quan t'uneixis ho has de fer al Dia 1. Quan facis una actualització a Twitter o a qualsevol lloc, assegura't que poses el dia en que estàs i utilitzes el hashtag del repte per tal que altres persones et trobin i et puguin donar suport!  
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+## Continguts
+* [Regles](rules.md)
+* [Log - Clica aquí per seguir el meu progrés](log.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Recursos](resources.md)
