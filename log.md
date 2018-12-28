@@ -36,6 +36,15 @@
 
 **Link to work:** [Coding and more blog on Github](https://github.com/kriyeng/coding-and-more-blog)
 
+### Day 6: December 28, 2018
+
+**Today's Progress**: Prepared code and wrote my very first post about coding. Refactoring an array of asynchronous functions
+
+**Thoughts:** I realised how dificult is to explain things in a clear way. I think that if someone reads my post wouldn't get the point at all. I think I have to continue practicing
+
+**Link to work:** [My first coding post](http://blog.ibanyez.info/blogs/coding/20181228-refactoring-code/)
+
 **Link(s) to work**
 [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
 [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
+[My first coding post](http://blog.ibanyez.info/blogs/coding/20181228-refactoring-code/)
