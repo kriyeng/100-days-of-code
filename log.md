@@ -44,6 +44,20 @@
 
 **Link to work:** [My first coding post](http://blog.ibanyez.info/blogs/coding/20181228-refactoring-code/)
 
+### Day 7: December 29, 2018
+
+**Today's Progress**: Lazy day today, no coding on any project. Only struggled with some kata in codewars.
+
+**Thoughts:** Hard day to find motivation. I just thinked to quit the challenge
+
+### Day 8: December 30, 2018
+
+**Today's Progress**: Coded all the logic for the API connection. Full working version for the tutorial purpose.
+
+**Thoughts:** Good day today. 
+
+**Link to work:** [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
+
 **Link(s) to work**
 [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
 [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
