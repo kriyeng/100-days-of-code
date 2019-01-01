@@ -58,6 +58,12 @@
 
 **Link to work:** [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
 
+### Day 9: January 1, 2019
+
+**Today's Progress**: Today I wrote a blog post about my code and personal goals for 2019. It's the first time I set goals for myself. I'm focusing on small achievable goals instead of grandiloquent and unachievable ones..
+
+**Thoughts:** I think that setting small goals will push me to accomplush them. 
+
 **Link(s) to work**
 [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
 [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
