@@ -62,7 +62,19 @@
 
 **Today's Progress**: Today I wrote a blog post about my code and personal goals for 2019. It's the first time I set goals for myself. I'm focusing on small achievable goals instead of grandiloquent and unachievable ones..
 
-**Thoughts:** I think that setting small goals will push me to accomplush them. 
+**Thoughts:** I think that setting small goals will push me to accomplish them.
+
+### Day 10: January 2, 2019 Finally published the blog post about my goals after reviewing it and done one kata on @codewars about [multiplying strings](https://www.codewars.com/kata/55911ef14065454c75000062)
+
+**Thoughts:** I'm eager to see what I'm able to acomplish.
+
+**Link to work:** [My blog post](http://blog.ibanyez.info/blogs/about-me/20190102-my-achievable-goals-for-2019/)
+
+### Day 11: January 3, 2019 Some minor fixes in the code for the tutorial Demystifing Frameworks and reading about improving writing on blog posts. 
+
+**Thoughts:** I think I prefer to learn more deeply how to blog before starting to write the tutorial.
+
+**Link to work:** [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
 
 **Link(s) to work**
 [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
