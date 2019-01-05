@@ -76,6 +76,20 @@
 
 **Link to work:** [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
 
+### Day 12: December 4, 2018
+
+**Today's Progress**: Solved a kata on Codewars.
+
+**Thoughts:** Too much based on maths algorithm. 
+
+### Day 13: December 5, 2018
+
+**Today's Progress**: Added the nav-bar functionality and coded the API connection for video search.
+
+**Thoughts:** Everything almost ready to start the tutorial. 
+
+**Link to work:** [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
+
 **Link(s) to work**
 [My blog github repo](https://github.com/kriyeng/coding-and-more-blog)
 [Pixabay Browser on Github](https://github.com/kriyeng/pixabay-browser/)
